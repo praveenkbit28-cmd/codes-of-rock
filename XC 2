@@ -1,0 +1,8 @@
+Write a C program to find the sum of two given numbers, 4 and 8 .The program should compute the sum and display the result as output.
+
+#include <stdio.h>
+
+int main() {
+    printf("%d", 4 + 8);
+    return 0;
+}
